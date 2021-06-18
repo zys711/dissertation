@@ -74,6 +74,9 @@ docs/_build/
 # PyBuilder
 target/
 
+# VS Code
+.vscode
+
 # Jupyter Notebook
 .ipynb_checkpoints
 
@@ -130,3 +133,4 @@ dmypy.json
 
 #data files
 .csv
+/data
