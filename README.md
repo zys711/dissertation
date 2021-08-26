@@ -7,9 +7,9 @@ This repository contains:
 5. test of helper functions (test_helper_function.py)
 
 Instructions
-------------
+============
 Requirements
-====
+----
 
 To sucessfully run files in this repository, the following packages should be installed first:
 ```
@@ -40,7 +40,7 @@ cd scikit-optimize
 ```
 
 Test
-====
+----
 Tests run as:
 ```
 pytest -p no:warnings
